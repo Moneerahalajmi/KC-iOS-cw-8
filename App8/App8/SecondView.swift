@@ -14,7 +14,7 @@ struct SecondView: View {
         ZStack{
             myC.ignoresSafeArea()
             VStack{
-                Text("myS")
+                Text(myS)
             }
         }
         
